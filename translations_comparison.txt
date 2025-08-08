@@ -1,0 +1,342 @@
+# Stream Chat Localizations - Translations Comparison
+
+## English (EN) | Русский (RU) | Română (RO)
+
+### Basic UI Elements
+| English | Русский | Română |
+|---------|---------|---------|
+| Cannot launch the url | Не удается открыть URL | Nu se poate deschide URL-ul |
+| Error loading users | Ошибка загрузки пользователей | Eroare la încărcarea utilizatorilor |
+| There are no users currently | В данный момент нет пользователей | La moment nu există utilizatori |
+| There is no photo or video | Нет фото или видео | Nu există fotografie sau video |
+| Retry | Повторить | Reîncearcă |
+| Last online | Последний раз онлайн | Ultima dată online |
+| Online | Онлайн | Online |
+| Only visible to you | Видно только вам | Vizibil doar pentru tine |
+| Connected | Подключено | Conectat |
+| Disconnected | Отключено | Deconectat |
+| Reconnecting... | Переподключение... | Se reconectează... |
+| OK | OK | OK |
+| Something went wrong | Что-то пошло не так | Ceva nu a mers bine |
+| CANCEL | ОТМЕНА | ANULEAZĂ |
+| DELETE | УДАЛИТЬ | ȘTERGE |
+| LEAVE | ПОКИНУТЬ | PĂRĂSEȘTE |
+
+### Messages
+| English | Русский | Română |
+|---------|---------|---------|
+| There are no messages currently | В данный момент нет сообщений | La moment nu există mesaje |
+| Error loading messages | Ошибка загрузки сообщений | Eroare la încărcarea mesajelor |
+| This message is deleted. | Это сообщение удалено. | Acest mesaj a fost șters. |
+| Message deleted | Сообщение удалено | Mesaj șters |
+| System Message | Системное сообщение | Mesaj de sistem |
+| Edited | Отредактировано | Editat |
+| Message Reactions | Реакции на сообщение | Reacții la mesaj |
+| No chats here yet... | Пока нет чатов... | Nu există conversații aici încă... |
+| Reply | Ответить | Răspunde |
+| Copy Message | Копировать сообщение | Copiază mesajul |
+| Edit Message | Редактировать сообщение | Editează mesajul |
+| Resend | Отправить повторно | Retrimite |
+| Draft | Черновик | Ciornă |
+
+### File Operations
+| English | Русский | Română |
+|---------|---------|---------|
+| Add a file | Добавить файл | Adaugă un fișier |
+| Upload a file | Загрузить файл | Încarcă un fișier |
+| Upload a photo | Загрузить фото | Încarcă o fotografie |
+| Upload a video | Загрузить видео | Încarcă un video |
+| Photo from camera | Фото с камеры | Fotografie de la cameră |
+| Video from camera | Видео с камеры | Video de la cameră |
+| Add more files | Добавить еще файлы | Adaugă mai multe fișiere |
+| File | Файл | Fișier |
+| Download | Скачать | Descarcă |
+| Save Image | Сохранить изображение | Salvează imaginea |
+| Save Video | Сохранить видео | Salvează videoclipul |
+| UPLOAD ERROR | ОШИБКА ЗАГРУЗКИ | EROARE DE ÎNCĂRCARE |
+
+### File Size Errors
+| English | Русский | Română |
+|---------|---------|---------|
+| The file is too large to upload. The file size limit is {limit} MB. | Файл слишком большой для загрузки. Лимит размера файла {limit} МБ. | Fișierul este prea mare pentru a fi încărcat. Limita de dimensiune a fișierului este {limit} MB. |
+| The file is too large to upload. The file size limit is {limit} MB. We tried compressing it, but it was not enough. | Файл слишком большой для загрузки. Лимит размера файла {limit} МБ. Мы попытались сжать его, но этого было недостаточно. | Fișierul este prea mare pentru a fi încărcat. Limita de dimensiune a fișierului este {limit} MB. Am încercat să-l comprimăm, dar nu a fost suficient. |
+| Could not read bytes from file. | Не удалось прочитать байты из файла. | Nu s-au putut citi bytes din fișier. |
+| Attachment limit exceeded, limit: {limit} | Превышен лимит вложений, лимит: {limit} | Limita de atașamente depășită, limită: {limit} |
+
+### Permissions
+| English | Русский | Română |
+|---------|---------|---------|
+| You don't have permission to send messages | У вас нет разрешения на отправку сообщений | Nu ai permisiunea de a trimite mesaje |
+| Please enable access to your photos and videos so you can share them with friends. | Пожалуйста, разрешите доступ к вашим фото и видео, чтобы вы могли делиться ими с друзьями. | Te rugăm să activezi accesul la fotografiile și videoclipurile tale pentru a le putea împărtăși cu prietenii. |
+| Allow access to your gallery | Разрешить доступ к галерее | Permite accesul la galeria ta |
+| Please enable access to files so you can share them with friends. | Пожалуйста, разрешите доступ к файлам, чтобы вы могли делиться ими с друзьями. | Te rugăm să activezi accesul la fișiere pentru a le putea împărtăși cu prietenii. |
+| Allow access to files | Разрешить доступ к файлам | Permite accesul la fișiere |
+
+### Message Actions
+| English | Русский | Română |
+|---------|---------|---------|
+| Flag Message | Пожаловаться на сообщение | Raportează mesajul |
+| Do you want to send a copy of this message to a moderator for further investigation? | Хотите отправить копию этого сообщения модератору для дальнейшего расследования? | Vrei să trimiți o copie a acestui mesaj unui moderator pentru investigații suplimentare? |
+| FLAG | ПОЖАЛОВАТЬСЯ | RAPORTEAZĂ |
+| Message flagged | Сообщение отмечено | Mesaj marcat |
+| The message has been reported to a moderator. | Сообщение было отправлено модератору. | Mesajul a fost raportat unui moderator. |
+| Delete Message | Удалить сообщение | Șterge mesajul |
+| Are you sure you want to permanently delete this message? | Вы уверены, что хотите навсегда удалить это сообщение? | Ești sigur că vrei să ștergi definitiv acest mesaj? |
+| The operation couldn't be completed. | Операция не могла быть завершена. | Operațiunea nu a putut fi finalizată. |
+| Pin to Conversation | Закрепить в беседе | Fixează în conversație |
+| Unpin from Conversation | Открепить из беседы | Detașează din conversație |
+| Retry Deleting Message | Повторить удаление сообщения | Reîncearcă ștergerea mesajului |
+| Resend Edited Message | Отправить отредактированное сообщение | Retrimite mesajul editat |
+
+### Typing Indicators
+| English | Русский | Română |
+|---------|---------|---------|
+| {name} is typing | {name} печатает | {name} scrie |
+| {name} and {count} more are typing | {name} и еще {count} печатают | {name} și încă {count} scriu |
+
+### Threads
+| English | Русский | Română |
+|---------|---------|---------|
+| Thread Reply | Ответ в ветке | Răspuns în fir |
+| {count} Thread Replies | {count} ответов в ветке | {count} Răspunsuri în fir |
+| 1 Reply | 1 ответ | 1 Răspuns |
+| {count} Replies | {count} ответов | {count} Răspunsuri |
+| replied to: | ответил на: | a răspuns la: |
+| 1 new thread | 1 новая ветка | 1 fir nou |
+| {count} new threads | {count} новых веток | {count} fire noi |
+
+### Upload Progress
+| English | Русский | Română |
+|---------|---------|---------|
+| Uploading {remaining}/{total} ... | Загрузка {remaining}/{total} ... | Se încarcă {remaining}/{total} ... |
+
+### Pinned Messages
+| English | Русский | Română |
+|---------|---------|---------|
+| Pinned by You | Закреплено вами | Fixat de tine |
+| Pinned by {name} | Закреплено {name} | Fixat de {name} |
+
+### Message Input
+| English | Русский | Română |
+|---------|---------|---------|
+| Also send as direct message | Также отправить как личное сообщение | Trimite și ca mesaj direct |
+| Add a comment or send | Добавить комментарий или отправить | Adaugă un comentariu sau trimite |
+| Search GIFs | Поиск GIF | Caută GIF-uri |
+| Write a message | Написать сообщение | Scrie un mesaj |
+| Instant Commands | Быстрые команды | Comenzi rapide |
+| Send | Отправить | Trimite |
+
+### Date and Time
+| English | Русский | Română |
+|---------|---------|---------|
+| Sent today at {time} | Отправлено сегодня в {time} | Trimis astăzi la {time} |
+| Sent yesterday at {time} | Отправлено вчера в {time} | Trimis ieri la {time} |
+| Sent on {date} at {time} | Отправлено {date} в {time} | Trimis pe {date} la {time} |
+| Today | Сегодня | Astăzi |
+| Yesterday | Вчера | Ieri |
+
+### Channel and Group
+| English | Русский | Română |
+|---------|---------|---------|
+| Channel is muted | Канал отключен | Canalul este dezactivat |
+| No title | Без названия | Fără titlu |
+| Let's start chatting! | Давайте начнем общаться! | Să începem conversația! |
+| How about sending your first message to a friend? | Как насчет отправки первого сообщения другу? | Ce zici să-i trimiți primul mesaj unui prieten? |
+| Start a chat | Начать чат | Începe o conversație |
+| Error loading channels | Ошибка загрузки каналов | Eroare la încărcarea canalelor |
+| Delete Conversation | Удалить беседу | Șterge conversația |
+| Are you sure you want to delete this conversation? | Вы уверены, что хотите удалить эту беседу? | Ești sigur că vrei să ștergi această conversație? |
+| Stream Chat | Stream Chat | Stream Chat |
+| Searching for Network | Поиск сети | Se caută rețea |
+| Offline... | Офлайн... | Offline... |
+| Try Again | Попробовать снова | Încearcă din nou |
+
+### Member Counts
+| English | Русский | Română |
+|---------|---------|---------|
+| 1 Member | 1 участник | 1 Membru |
+| {count} Members | {count} участников | {count} Membri |
+| 1 Online | 1 онлайн | 1 Online |
+| {count} Online | {count} онлайн | {count} Online |
+
+### Group Actions
+| English | Русский | Română |
+|---------|---------|---------|
+| View Info | Посмотреть информацию | Vezi informații |
+| Leave Group | Покинуть группу | Părăsește grupul |
+| Leave conversation | Покинуть беседу | Părăsește conversația |
+| Are you sure you want to leave this conversation? | Вы уверены, что хотите покинуть эту беседу? | Ești sigur că vrei să părăsești această conversație? |
+| Show in Chat | Показать в чате | Arată în chat |
+
+### Mute/Unmute
+| English | Русский | Română |
+|---------|---------|---------|
+| Mute User | Отключить пользователя | Dezactivează utilizatorul |
+| Unmute User | Включить пользователя | Activează utilizatorul |
+| Are you sure you want to mute this user? | Вы уверены, что хотите отключить этого пользователя? | Ești sigur că vrei să dezactivezi acest utilizator? |
+| Are you sure you want to unmute this user? | Вы уверены, что хотите включить этого пользователя? | Ești sigur că vrei să activezi acest utilizator? |
+| MUTE | ОТКЛЮЧИТЬ | DEZACTIVEAZĂ |
+| UNMUTE | ВКЛЮЧИТЬ | ACTIVEAZĂ |
+| Mute Group | Отключить группу | Dezactivează grupul |
+| Unmute Group | Включить группу | Activează grupul |
+| Are you sure you want to mute this group? | Вы уверены, что хотите отключить эту группу? | Ești sigur că vrei să dezactivezi acest grup? |
+| Are you sure you want to unmute this group? | Вы уверены, что хотите включить эту группу? | Ești sigur că vrei să activezi acest grup? |
+
+### Links
+| English | Русский | Română |
+|---------|---------|---------|
+| Sending links is not allowed in this conversation. | Отправка ссылок не разрешена в этой беседе. | Trimiterea linkurilor nu este permisă în această conversație. |
+| Links are disabled | Ссылки отключены | Linkurile sunt dezactivate |
+
+### Unread Messages
+| English | Русский | Română |
+|---------|---------|---------|
+| New messages | Новые сообщения | Mesaje noi |
+| Mark as Unread | Отметить как непрочитанное | Marchează ca necitit |
+| {count} unread | {count} непрочитанных | {count} necitite |
+| Error marking message unread. Cannot mark unread messages older than the newest 100 channel messages. | Ошибка отметки сообщения как непрочитанного. Нельзя отметить как непрочитанные сообщения старше 100 последних сообщений канала. | Eroare la marcarea mesajului ca necitit. Nu pot fi marcate ca necitite mesajele mai vechi decât ultimele 100 de mesaje din canal. |
+
+### Polls
+| English | Русский | Română |
+|---------|---------|---------|
+| Create Poll | Создать опрос | Creează sondaj |
+| Create a new poll | Создать новый опрос | Creează un sondaj nou |
+| Questions | Вопросы | Întrebări |
+| Ask a question | Задать вопрос | Pune o întrebare |
+| Question must be at least {min} characters long | Вопрос должен содержать минимум {min} символов | Întrebarea trebuie să aibă cel puțin {min} caractere |
+| Question must be at most {max} characters long | Вопрос должен содержать максимум {max} символов | Întrebarea trebuie să aibă cel mult {max} caractere |
+| Option | Вариант | Opțiune |
+| Options | Варианты | Opțiuni |
+| Option cannot be empty | Вариант не может быть пустым | Opțiunea nu poate fi goală |
+| This is already an option | Это уже является вариантом | Aceasta deja este o opțiune |
+| Add an option | Добавить вариант | Adaugă o opțiune |
+| Multiple answers | Несколько ответов | Răspunsuri multiple |
+| Maximum votes per person | Максимум голосов на человека | Voturi maxime per persoană |
+| Vote count must be at least {min} | Количество голосов должно быть минимум {min} | Numărul de voturi trebuie să fie cel puțin {min} |
+| Vote count must be at most {max} | Количество голосов должно быть максимум {max} | Numărul de voturi trebuie să fie cel mult {max} |
+| Anonymous poll | Анонимный опрос | Sondaj anonim |
+| Poll Options | Варианты опроса | Opțiuni sondaj |
+| Suggest an option | Предложить вариант | Sugerează o opțiune |
+| Enter a new option | Ввести новый вариант | Introdu o opțiune nouă |
+| Add a comment | Добавить комментарий | Adaugă un comentariu |
+| Poll Comments | Комментарии к опросу | Comentarii la sondaj |
+| Update your comment | Обновить ваш комментарий | Actualizează comentariul tău |
+| Enter your comment | Введите ваш комментарий | Introdu comentariul tău |
+| Are you sure you want to end the vote? | Вы уверены, что хотите завершить голосование? | Ești sigur că vrei să închei votul? |
+| Create | Создать | Creează |
+| End | Завершить | Încheie |
+| Vote ended | Голосование завершено | Vot încheiat |
+| Select one | Выберите один | Selectează una |
+| Select up to {count} | Выберите до {count} | Selectează până la {count} |
+| Select one or more | Выберите один или несколько | Selectează una sau mai multe |
+| See all options | Посмотреть все варианты | Vezi toate opțiunile |
+| See all {count} options | Посмотреть все {count} вариантов | Vezi toate cele {count} opțiuni |
+| View Comments | Посмотреть комментарии | Vezi comentarii |
+| View Results | Посмотреть результаты | Vezi rezultate |
+| End Vote | Завершить голосование | Încheie votul |
+| Poll Results | Результаты опроса | Rezultate sondaj |
+| Show all votes | Показать все голоса | Arată toate voturile |
+| Show all {count} votes | Показать все {count} голосов | Arată toate cele {count} voturi |
+| 0 votes | 0 голосов | 0 voturi |
+| 1 vote | 1 голос | 1 vot |
+| {count} votes | {count} голосов | {count} voturi |
+| There are no poll votes currently | В данный момент нет голосов в опросе | La moment nu există voturi la sondaj|
+| Error loading poll votes | Ошибка загрузки голосов опроса | Eroare la încărcarea voturilor din sondaj |
+| You voted | Вы проголосовали | Ai votat |
+| {username} voted | {username} проголосовал | {username} a votat |
+| You created | Вы создали | Ai creat |
+| {username} created | {username} создал | {username} a creat |
+
+### Voice Recording
+| English | Русский | Română |
+|---------|---------|---------|
+| Slide to cancel | Проведите для отмены | Glisează pentru a anula |
+| Hold to record, release to send. | Удерживайте для записи, отпустите для отправки. | Ține apăsat pentru a înregistra, eliberează pentru a trimite. |
+| Send Anyway | Отправить в любом случае | Trimite oricum |
+| Voice Recording | Голосовая запись | Înregistrare vocală |
+
+### Attachments
+| English | Русский | Română |
+|---------|---------|---------|
+| Audio | Аудио | Audio |
+| Image | Изображение | Imagine |
+| Video | Видео | Video |
+| Photos | Фотографии | Fotografii |
+
+### Moderation
+| English | Русский | Română |
+|---------|---------|---------|
+| Message was blocked by moderation policies | Сообщение было заблокировано политикой модерации | Mesajul a fost blocat de politicile de moderare |
+| Are you sure? | Вы уверены? | Ești sigur? |
+| Consider how your comment might make others feel and be sure to follow our Community Guidelines. | Подумайте о том, как ваш комментарий может повлиять на других, и обязательно следуйте нашим Правилам сообщества. | Ia în considerare cum comentariul tău i-ar putea afecta pe alții și asigură-te că urmezi Ghidul nostru pentru comunitate. |
+
+### Gallery
+| English | Русский | Română |
+|---------|---------|---------|
+| {current} of {total} | {current} из {total} | {current} din {total} |
+| View library | Посмотреть библиотеку | Vezi biblioteca |
+
+### Other UI Elements
+| English | Русский | Română |
+|---------|---------|---------|
+| {count} results | {count} результатов | {count} rezultate |
+| Giphy | Giphy | Giphy |
+| Shuffle | Перемешать | Amestecă |
+| with | с | cu |
+| in | в | în |
+| You | Вы | Tu |
+| Reply to Message | Ответить на сообщение | Răspunde la mesaj |
+| Slow mode ON | Медленный режим ВКЛ | Mod lent activat |
+| View library | Посмотреть библиотеку | Vezi biblioteca |
+
+### Search
+| English | Русский | Română |
+|---------|---------|---------|
+| Search GIFs | Поиск GIF | Caută GIF-uri |
+
+### Error Messages
+| English | Русский | Română |
+|---------|---------|---------|
+| Something went wrong | Что-то пошло не так | Ceva nu a mers bine |
+| Generic error text | Что-то пошло не так | Ceva nu a mers bine |
+
+### Empty States
+| English | Русский | Română |
+|---------|---------|---------|
+| There are no messages currently | В данный момент нет сообщений | La moment nu există mesaje |
+| No chats here yet... | Пока нет чатов... | Nu există conversații aici încă... |
+| There are no poll votes currently | В данный момент нет голосов в опросе | Nu există voturi în sondaj în prezent |
+
+### Loading States
+| English | Русский | Română |
+|---------|---------|---------|
+| Error loading users | Ошибка загрузки пользователей | Eroare la încărcarea utilizatorilor |
+| Error loading messages | Ошибка загрузки сообщений | Eroare la încărcarea mesajelor |
+| Error loading channels | Ошибка загрузки каналов | Eroare la încărcarea canalelor |
+| Error loading poll votes | Ошибка загрузки голосов опроса | Eroare la încărcarea voturilor din sondaj |
+
+### Network States
+| English | Русский | Română |
+|---------|---------|---------|
+| Connected | Подключено | Conectat |
+| Disconnected | Отключено | Deconectat |
+| Reconnecting... | Переподключение... | Se reconectează... |
+| Searching for Network | Поиск сети | Se caută rețea |
+| Offline... | Офлайн... | Offline... |
+
+### Action Buttons
+| English | Русский | Română |
+|---------|---------|---------|
+| Retry | Повторить | Reîncearcă |
+| Try Again | Попробовать снова | Încearcă din nou |
+| Send | Отправить | Trimite |
+| Cancel | Отмена | Anulează |
+| Delete | Удалить | Șterge |
+| Leave | Покинуть | Părăsește |
+| Flag | Пожаловаться | Raportează |
+| Mute | Отключить | Dezactivează |
+| Unmute | Включить | Activează |
+| Create | Создать | Creează |
+| End | Завершить | Încheie |
+| Download | Скачать | Descarcă |
+| Save | Сохранить | Salvează | 
