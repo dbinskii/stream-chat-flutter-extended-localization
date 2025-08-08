@@ -12,7 +12,7 @@ class StreamChatLocalizationsRo extends GlobalStreamChatLocalizations {
   String get loadingUsersError => 'Eroare la încărcarea utilizatorilor';
 
   @override
-  String get noUsersLabel => 'Nu există utilizatori în prezent';
+  String get noUsersLabel => 'La moment nu există utilizatori';
 
   @override
   String get noPhotoOrVideoLabel => 'Nu există fotografie sau video';
@@ -67,7 +67,7 @@ class StreamChatLocalizationsRo extends GlobalStreamChatLocalizations {
       'Nu ai permisiunea de a trimite mesaje';
 
   @override
-  String get emptyMessagesText => 'Nu există mesaje în prezent';
+  String get emptyMessagesText => 'La moment nu există mesaje';
 
   @override
   String get genericErrorText => 'Ceva nu a mers bine';
@@ -607,7 +607,7 @@ class StreamChatLocalizationsRo extends GlobalStreamChatLocalizations {
       };
 
   @override
-  String get noPollVotesLabel => 'Nu există voturi în sondaj în prezent';
+  String get noPollVotesLabel => 'La moment nu există voturi la sondaj';
 
   @override
   String get loadingPollVotesError =>
